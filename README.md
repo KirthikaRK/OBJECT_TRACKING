@@ -12,7 +12,7 @@ BEFORE :
 ![image](https://github.com/user-attachments/assets/85422a0e-e58d-4739-8879-f3d43f6f00aa)
 
 
-AFTER :
+AFTER : The output is actually an video stream, where each person is identitfied, and an track Id is associated to each of them in order to track them till they exist in the frame. The below is snapshot of one such frame. It can also be noted that the model still need some more tuning and working to improve its accuracy.
 ![image](https://github.com/user-attachments/assets/363883f1-08f3-40a3-b59e-46d8e3bcca7e)
 
 
