@@ -6,7 +6,7 @@ Once the objects are detected, the output from YOLOv8 is fed into the second sta
 
 This two-stage process leverages the strengths of both YOLOv8 for accurate object detection and DEEPsort for reliable object tracking, resulting in a robust and efficient system capable of handling complex tracking scenarios in real-time.
 
-The data used is an video stream input. Here we try to identify i.e detect all the human(people) present in the frame and track each person till they are visible in the frame.
+The data used is a video stream input. Here we try to identify i.e detect all the human(people) present in the frame and track each person till they are visible in the frame.
 
 BEFORE :
 ![image](https://github.com/user-attachments/assets/85422a0e-e58d-4739-8879-f3d43f6f00aa)
